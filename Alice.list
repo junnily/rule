@@ -3,9 +3,13 @@
 # 域名后缀匹配   
 DOMAIN-SUFFIX,mc.kvm.one  
 DOMAIN-SUFFIX,alice.ws  
-DOMAIN-SUFFIX,149256.us.kg  
-
-
+DOMAIN-SUFFIX,us.kg
+DOMAIN-SUFFIX,nodeseek.com
+DOMAIN-SUFFIX,claw.cloud
+DOMAIN-SUFFIX,acck.io
+DOMAIN-SUFFIX,polarbear.wtf
+DOMAIN-SUFFIX,yxvm.com
+DOMAIN-SUFFIX,lap.ink
 # 域名关键字匹配
 
 
