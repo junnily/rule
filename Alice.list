@@ -1,14 +1,14 @@
 # 域名后缀匹配    
-+.alice.ws  
-+.us.kg
-+.nodeseek.com
-+.claw.cloud
-+.acck.io
-+.polarbear.wtf
-+.yxvm.com
-+.lap.ink
-+.CMLiussss.com
-+.qichiyu.com
-+.serv00.com  
-+.kvm.one
-+.69yun69.com
+DOMAIN-SUFFIX,alice.ws  
+DOMAIN-SUFFIX,us.kg
+DOMAIN-SUFFIX,nodeseek.com
+DOMAIN-SUFFIX,claw.cloud
+DOMAIN-SUFFIX,acck.io
+DOMAIN-SUFFIX,polarbear.wtf
+DOMAIN-SUFFIX,yxvm.com
+DOMAIN-SUFFIX,lap.ink
+DOMAIN-SUFFIX,CMLiussss.com
+DOMAIN-SUFFIX,qichiyu.com
+DOMAIN-SUFFIX,serv00.com  
+DOMAIN-SUFFIX,kvm.one
+DOMAIN-SUFFIX,69yun69.com
