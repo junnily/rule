@@ -1,6 +1,4 @@
 # 域名后缀匹配
-DOMAIN-SUFFIX,tanhuatv.site
-DOMAIN-SUFFIX,media.nijigem.by
-DOMAIN-SUFFIX,nijigem.by
-DOMAIN-SUFFIX,ani.cappuccino.moe
-DOMAIN-SUFFIX,cappuccino.moe
++.tanhuatv.site
++.nijigem.by
++.cappuccino.moe
