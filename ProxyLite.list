@@ -10,26 +10,35 @@
 
 
 # 域名关键字匹配
-DOMAIN-KEYWORD,serv00
+DOMAIN-KEYWORD,serv00  
 DOMAIN-KEYWORD,1e100
 DOMAIN-KEYWORD,69yun69
-DOMAIN-KEYWORD,yckceo
+DOMAIN-KEYWORD,yckceo  
 DOMAIN-KEYWORD,sewenwang
 # IP段匹配
 142.171.133.131/32
 103.115.43.2/32
+91.103.123.0/24
+31.59.111.0/24
+144.48.80.0/24
+156.226.171.0/24
+47.79.87.0/24
+46.232.60.0/24
+149.102.154.0/24
+23.173.152.0/24
+108.181.17.0/24
 
 # 国外DNS
 +.dns.google
 +.1dot1dot1dot1.cloudflare-dns.com
-+.dot.sb
++.dot.sb  
 +.dns.umbrella.com
 +.dns.quad9.net
-+.dns.google
++.dns.google  
 +.cloudflare-dns.com
 +.doh.dns.sb
 +.doh.opendns.com
-+.,dns.quad9.net
++.,dns.quad9.net  
 +.hk-hkg.doh.sb
 8.8.8.8/32
 8.8.4.4/32
