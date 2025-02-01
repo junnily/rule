@@ -5,12 +5,14 @@
 +.CMLiussss.com
 +.qichiyu.com
 +.69yun69.com
++.yckceo.com
 
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,serv00
 DOMAIN-KEYWORD,1e100
 DOMAIN-KEYWORD,69yun69
+DOMAIN-KEYWORD,yckceo
 
 # IP段匹配
 142.171.133.131/32
