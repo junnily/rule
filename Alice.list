@@ -1,18 +1,16 @@
 # 域名后缀匹配
-+.149256.us.kg  
-+.alice.ws    
++.149256.us.kg
++.alice.ws
 +.us.kg
-+.nodeseek.com
-+.claw.cloud  
++.claw.cloud
 +.acck.io
 +.polarbear.wtf
 +.yxvm.com
 +.lap.ink
-+.serv00.com  
++.serv00.com
 +.kvm.one
-+.lowendtalk.com    
-+.nodeseek.com
-legendvps.com  
++.lowendtalk.com
+legendvps.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,alice
