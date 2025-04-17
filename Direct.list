@@ -1,7 +1,7 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 20.214.143.77/32
 # emby
-jp.younoyes.com
+DOMAIN-SUFFIX,younoyes.com
 us.younoyes.com
 cf.carlos.trade
 free.28.al
